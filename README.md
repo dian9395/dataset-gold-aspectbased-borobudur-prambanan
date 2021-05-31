@@ -1,7 +1,7 @@
 # The Dataset for Aspect-based Sentiment Analysis on Indonesia’s Tourism Destinations Based on Google Maps User Code-Mixed Reviews (Study Case: Borobudur and Prambanan Temples)
 (Dataset untuk Analisis Sentimen Berbasis Aspek pada Destinasi Pariwisata Indonesia Berdasarkan Ulasa Code-Mixed Pengguna Google Maps Study Case: Candi Borobudur dan Candi Prambanan)
 
-Dataset
+<b>Dataset</b>
 The dataset is a nine-column data of: id, location, text, daya_tarik (attractions), amenitas (amenities), aksesibilitas (accessibility), citra (image), harga (price), and sdm (human resources), consists of 4395 reviews of Borobudur and Prambanan Temples in Indonesian and English.
 
 The dataset consists of four classes (none, neutral, negative, positive) for each aspect.
