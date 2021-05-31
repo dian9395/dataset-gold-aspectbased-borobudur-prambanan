@@ -1,5 +1,4 @@
-# dataset-gold-aspectbased-borobudur-prambanan
-The Dataset for Aspect-based Sentiment Analysis on Indonesia’s Tourism Destinations Based on Google Maps User Code-Mixed Reviews (Study Case: Borobudur and Prambanan Temples)
+# The Dataset for Aspect-based Sentiment Analysis on Indonesia’s Tourism Destinations Based on Google Maps User Code-Mixed Reviews (Study Case: Borobudur and Prambanan Temples)
 (Dataset untuk Analisis Sentimen Berbasis Aspek pada Destinasi Pariwisata Indonesia Berdasarkan Ulasa Code-Mixed Pengguna Google Maps Study Case: Candi Borobudur dan Candi Prambanan)
 
 Dataset
