@@ -6,7 +6,7 @@ The dataset is a nine-column data of: id, location, text, daya_tarik (attraction
 
 The dataset consists of four classes (none, neutral, negative, positive) for each aspect.
 
--  - : none <br>
+-  '- : none <br>
 -  0 : neutral <br>
 - -1 : negative <br>
 -  1 : positive <br>
